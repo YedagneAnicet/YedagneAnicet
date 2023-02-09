@@ -13,6 +13,6 @@
 </div>
 <div id="header" align="center">
   <img src="https://www.ambient-it.net/wp-content/uploads/2022/12/Angular-15.png" width="100"/>
-  <img src="https://formation.antoinehoury.io/wp-content/uploads/2019/02/php-e8c6425acd65e1cbc012639ad25598c7.png" width="100"/>
+  <img src="https://formation.antoinehoury.io/wp-content/uploads/2019/02/php-e8c6425acd65e1cbc012639ad25598c7.png" width="300"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5zCz3K5wY6jBnwfMxcpE_9nSld97pqYbYvNN99rEUMsmT86KYcnTd3PyCHquKYWwnw0&usqp=CAU" width="80"/>
 </div>
