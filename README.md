@@ -22,6 +22,7 @@
 
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YedagneAnicet&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
 </span>
+<hr>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
