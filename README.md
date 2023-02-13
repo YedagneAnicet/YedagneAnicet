@@ -15,4 +15,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+<h2 align="center">📈 &nbsp;Some Github Stats</h2>
+<span align="center">
 
+![Mel Ange Anicet Yedagne 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YedagneAnicet&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YedagneAnicet&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
+</span>
